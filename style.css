@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/106/462/original/abstract-colorful-background-free-vector.jpg);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.box {
+    display: inline-block;
+    text-align: center;
+}
+
+.textBox1 {
+    margin: 0px 40%;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.textBox2 {
+    margin: 0px 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    color: white;
+    font-size: 30px;
+}
+
+input {
+    border-radius: 5px;
+}
+
+button {
+    background-color: transparent;
+    padding: 8px 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    border-color: white;
+}
+
+
+
+
